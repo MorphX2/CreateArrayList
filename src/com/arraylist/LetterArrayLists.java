@@ -1,10 +1,7 @@
 
 package com.arraylist;
 import java.util.*;
-/**
- *
- * @author jamaalcrichfield
- */
+
 public class LetterArrayLists {
     // create an array list
     ArrayList al = new ArrayList();
